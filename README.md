@@ -2,7 +2,6 @@
 
 ## How to use
 
-**Requirements** 
 
 you need to clone this repo
 
